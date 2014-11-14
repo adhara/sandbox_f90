@@ -8,8 +8,7 @@
 extern "C" {
 #endif
 
-void f90sub_(int *a, float *b);
-
+void intertest_f90sub_(int *a, float *b);
 
 #ifdef __cplusplus
 }
